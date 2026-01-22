@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Salman Khan</h1>
 <h3 align="center">A self-motivated backend developer</h3>
 
-- 🔭 I’m currently working on [Roomie Budget Tracker](https://github.com/mohammedsalmank04/roomie-budget-tracker/tree/master)
+- 🔭 I’m currently working on [E-Commerce Project](https://github.com/mohammedsalmank04/e-commerce)
 
 - 🌱 I’m currently learning **Spring Boot, AWS**
 
